@@ -1,0 +1,9 @@
+{
+  "name": "test-bundle",
+  "skills": [
+    { "name": "skill-alpha", "repo": "SkillTest1" },
+    { "name": "skill-beta", "repo": "SkillTest1" },
+    { "name": "skill-gamma", "repo": "SkillTest1" },
+    { "name": "skill-delta", "repo": "SkillTest1" }
+  ]
+}

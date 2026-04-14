@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "name": "skill-alpha",
+      "version": "1.0.0",
+      "description": "A sample skill for testing - alpha variant",
+      "author": "@tester",
+      "tags": ["test", "sample", "alpha"],
+      "path": "skills/skill-alpha"
+    },
+    {
+      "name": "skill-beta",
+      "version": "1.0.0",
+      "description": "A sample skill for testing - beta variant",
+      "author": "@tester",
+      "tags": ["test", "sample", "beta"],
+      "path": "skills/skill-beta"
+    },
+    {
+      "name": "skill-gamma",
+      "version": "1.0.0",
+      "description": "A sample skill for testing - gamma variant",
+      "author": "@tester",
+      "tags": ["test", "sample", "gamma"],
+      "path": "skills/skill-gamma"
+    },
+    {
+      "name": "skill-delta",
+      "version": "1.0.0",
+      "description": "A sample skill for testing - delta variant",
+      "author": "@tester",
+      "tags": ["test", "sample", "delta"],
+      "path": "skills/skill-delta"
+    }
+  ],
+  "bundles": [
+    {
+      "name": "test-bundle",
+      "description": "A test bundle containing all four sample skills",
+      "author": "@tester",
+      "tags": ["test", "sample"],
+      "path": "bundles/test_repo_1.json"
+    }
+  ]
+}
